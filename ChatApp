@@ -1,0 +1,20 @@
+#ChatApp
+A simple online chat application sample implemented in Java using socket programming. It allows multiple users to connect to a central server and send messages and receive messages from other users.
+
+## Features
+- Connecting to the server by multiple clients.
+- Assign a unique user ID to each client.
+- Enable clients to send messages to the server, which in turn broadcasts messages to all connected clients.
+- Simple text-based user interface for entering and viewing messages.
+
+## requirements
+- Java Development Kit (JDK) 8 or higher.
+- IDE or script editor to edit and run the code (optional).
+
+## start
+Using these instructions you can get your chat app up and running on your local device.
+
+### 1. Clone the repository
+Copy the repository to your local machine using the following command:
+``` bash
+Clone portal <repository-url>
